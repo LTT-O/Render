@@ -8,5 +8,5 @@ sh install_pytoch3d.sh
 python render.py --obj_path=./demo1.obj --save_path=./demo1.png
 ```
 ## Result
-<img src="./demo1.png" width="120%" height="120%" />
-<img src="./demo2.png" width="120%" height="120%" />
+<img src="./demo1.png" width="60%" height="60%" />
+<img src="./demo2.png" width="60%" height="60%" />
